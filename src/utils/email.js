@@ -3,8 +3,6 @@ import axios from 'axios'
 // Replace with your SendinBlue API key
 const apiKey = import.meta.env.VITE_SENDINBLUE_API_KEY
 
-console.log(apiKey)
-
 // Replace with the recipient's email
 const recipientEmail = 'sidhant0121@gmail.com'
 
