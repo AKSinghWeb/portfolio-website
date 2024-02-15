@@ -24,8 +24,6 @@ const ProjectCard = ({
         tiltMaxAngleX={10}
         tiltMaxAngleY={10}
         scale={1.02}
-        // transitionSpeed={2500}
-        gyroscope={true}
         className="bg-tertiary p-5 rounded-2xl sm:w-[360px] w-full"
       >
         <div className="relative w-full">
